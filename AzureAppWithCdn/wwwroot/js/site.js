@@ -3,4 +3,5 @@
 
 // Write your JavaScript code.
 
-console.log("deploy was made")
+console.log("deploy was made");
+console.log("staging edit");
